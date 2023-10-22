@@ -1,14 +1,11 @@
 {
   "users": [
-    {
-      "id": 1,
-      "name": "David",
-      "age": 30
-    },
-    {
-      "name": "John",
-      "id": 2,
-      "age": 40
-    }
+{
+ "Status": "Transaction Received",
+ "CorporateID": " ABCX",
+ "StatusCode": "1001",
+ "TransactionReferenceNumber": "TEST06012012222"
+}
   ]
+
 }
